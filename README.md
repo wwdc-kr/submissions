@@ -20,7 +20,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 | Minjae Lee | [Eolssu](https://github.com/mini-min/Eolssu) |
 | Dongwon Seo | [Signy Play](https://github.com/HappyDoran/Signy-Play) |
 | Yune Cho | [Neckle](https://github.com/PictureHouse/Neckle) |
-
+| Seongil Yeo | [Lost in Letters](https://github.com/YeoSeongil/Lost-in-Letters) |
 
 ## 2024
 
