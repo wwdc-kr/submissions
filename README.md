@@ -52,6 +52,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 | ------------- | ------------- |
 | Seokho Lee  | [App Pilot](https://github.com/Mercen-Lee/App-Pilot) |
 | Yuseong Nam  | [MyotSiYa](https://github.com/99yuseong/myot-si-ya) |
+| JeEon Park | [Don't Blink!](https://github.com/JeEonPark/Don-t-blink) |
 
 [목차로](#목차)
 
