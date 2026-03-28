@@ -27,6 +27,10 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 
 ![ssc-26-og](https://github.com/user-attachments/assets/68783943-cd1e-41ce-a63a-29cc16d583a9)
 
+| Winner        | Project       |
+| ------------- | ------------- |
+| Sean Cho | [Why I Photograph](https://github.com/chxhyxn/Why-I-Photograph) |
+
 [목차로](#목차)
 
 ## 2025
