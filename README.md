@@ -30,6 +30,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 | Winner        | Project       |
 | ------------- | ------------- |
 | Sean Cho | [Why I Photograph](https://github.com/chxhyxn/Why-I-Photograph) |
+| [Jason J. Lee](https://www.linkedin.com/in/json-lee) | [Binary World](https://github.com/jsonpassion/BinaryWorld) |
 
 [목차로](#목차)
 
